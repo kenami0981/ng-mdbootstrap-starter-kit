@@ -17,6 +17,7 @@
     "**/*.spec.ts"
   ],
   "include": [
-    "**/*.ts"
+    "**/*.ts",
+    "../../node_modules/@types/jquery/misc.d.ts"
   ]
 }
